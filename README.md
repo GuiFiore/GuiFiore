@@ -20,7 +20,7 @@ Apaixonado por automações, interfaces web e projetos que resolvem problemas de
 |---|---|---|
 | [KingsCut Barbearia](https://github.com/GuiFiore/landing-page-barbearia) | Landing page profissional para barbearia | HTML, CSS, JS |
 | [Bot de Cotação](https://github.com/GuiFiore/bot-cotacao-telegram) | Bot Telegram com cotação do dólar em tempo real | Python |
-| [Organizador de Arquivos](https://github.com/guilhermefiorentin) | Script que organiza pastas automaticamente | Python |
+| [Organizador de Arquivos](https://github.com/GuiFiore/organizador-arquivos) | Script que organiza pastas automaticamente | Python |
 
 ---
 
